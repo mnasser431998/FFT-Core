@@ -3,7 +3,7 @@ Design of an fft core mainly used as a basis for ZKP algorithms.
 
 
 # Block diagram
-![img](../FFT-Core/fft_c/docs/FFT_CORE_BD.jpg)
+![img](./fft_c/docs/FFT_CORE_BD.jpg)
 
 The bfu unit needs 3 elements to operate: -
 * the first complex number (A).
