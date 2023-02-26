@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../crypto/twiddle_lut/files/rom_async.sv" \
+"../../../../../../crypto/twiddle_lut/files/sin_lut.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

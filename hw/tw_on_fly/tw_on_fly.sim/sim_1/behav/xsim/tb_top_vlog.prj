@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../tw_on_fly.srcs/sources_1/new/cos_lut_wr.v" \
+"../../../../../../crypto/twiddle_lut/files/sine_lut_wr.v" \
+"../../../../tw_on_fly.srcs/sources_1/new/tw_calc.v" \
+
+sv xil_defaultlib  \
+"../../../../tw_on_fly.srcs/sources_1/new/cos_lut.sv" \
+"../../../../../../crypto/twiddle_lut/files/rom_async.sv" \
+"../../../../../../crypto/twiddle_lut/files/sin_lut.sv" \
+
+verilog xil_defaultlib  \
+"../../../../tw_on_fly.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

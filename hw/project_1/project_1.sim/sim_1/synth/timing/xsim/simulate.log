@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+match 1!
+match 2!
+match 3!
+All test cases passed
+$finish called at time : 190 ns : File "E:/work/vivado/project_1/project_1.srcs/sim_1/new/tb_bfu.v" Line 83

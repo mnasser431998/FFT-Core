@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+E:/work/crypto/twiddle_lut/files/rom_async.sv,1677368471,systemVerilog,,E:/work/crypto/twiddle_lut/files/sin_lut.sv,,rom_async,,,,,,,,
+E:/work/crypto/twiddle_lut/files/sin_lut.sv,1677367956,systemVerilog,,,,sin_lut,,,,,,,,
+E:/work/crypto/twiddle_lut/files/sine_lut_wr.v,1677369543,verilog,,E:/work/vivado/tw_on_fly/tw_on_fly.srcs/sources_1/new/tw_calc.v,,sine_lut_wr,,,,,,,,
+E:/work/vivado/tw_on_fly/tw_on_fly.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+E:/work/vivado/tw_on_fly/tw_on_fly.srcs/sim_1/new/tb_top.v,1677445236,verilog,,,,tb_top,,,,,,,,
+E:/work/vivado/tw_on_fly/tw_on_fly.srcs/sources_1/new/cos_lut.sv,1677444641,systemVerilog,,E:/work/crypto/twiddle_lut/files/rom_async.sv,,cos_lut,,,,,,,,
+E:/work/vivado/tw_on_fly/tw_on_fly.srcs/sources_1/new/cos_lut_wr.v,1677443751,verilog,,E:/work/crypto/twiddle_lut/files/sine_lut_wr.v,,cos_lut_wr,,,,,,,,
+E:/work/vivado/tw_on_fly/tw_on_fly.srcs/sources_1/new/tw_calc.v,1677443809,verilog,,,,tw_calc,,,,,,,,
